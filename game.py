@@ -1,1 +1,1 @@
-#game em python#
+print("hello world")
